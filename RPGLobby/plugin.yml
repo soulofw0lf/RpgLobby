@@ -1,0 +1,7 @@
+name: RpgLobby
+main: com.vartala.soulofw0lf.rpglobby.RpgLobby
+version: 1.2.3
+commands:
+    lobby:
+        description: enter or leave the lobby
+        usage: /<lobby> [enter,leave]
